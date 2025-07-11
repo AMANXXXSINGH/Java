@@ -14,7 +14,7 @@ Print(0,0,n-1,m-1,"");
 			System.out.println(ans);
 			return;
 		}
-		if(cc>er||cc>ec) {
+		if(cr>er||cc>ec) {
 			return;
 		}
 		Print(cr, cc+1, er, ec, ans+"H");

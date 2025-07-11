@@ -19,7 +19,7 @@ public class Pair_of_Roses {
 				arr[j]=sc.nextInt();
 			}
 			int tar=sc.nextInt();
-			System.out.println("*****");
+			System.out.println();
 			
 			Arrays.sort(arr);
 			List<Integer>ll=new ArrayList<>();
